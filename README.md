@@ -56,4 +56,4 @@ return array(
 Вывод виджета
 =============
 Теперь в нужном месте просто вставляем код:
-<pre><code><?php $this->widget('application.components.menu.BMenu');?></code></pre>
+<pre><code> $this->widget('application.components.menu.BMenu');</code></pre>
