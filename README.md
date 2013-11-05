@@ -30,9 +30,9 @@
 </code></pre>
 
 
-**itemOptions**, **submenuOptions**, **template** - являются свойствами компонента [**CMenu**](http://www.yiiframework.com/doc/api/1.1/CMenu)
+**itemOptions**, **submenuOptions**, **template** - являются свойствами компонента **<a href="http://www.yiiframework.com/doc/api/1.1/CMenu" target="_blank">CMenu</a>**
 
-В **items** передается массив в котором указаны альянсы путей к php файлам (**path**), и названия этих самых файлов (**file**), в которых хранятся массивы добавляющиеся в массив [**items**](http://www.yiiframework.com/doc/api/1.1/CMenu#items-detail) компонента [**CMenu**](http://www.yiiframework.com/doc/api/1.1/CMenu)
+В **items** передается массив в котором указаны альянсы путей к php файлам (**path**), и названия этих самых файлов (**file**), в которых хранятся массивы добавляющиеся в массив **<a href="http://www.yiiframework.com/doc/api/1.1/CMenu#items-detail" target="_blank">items</a>**  компонента **<a href="http://www.yiiframework.com/doc/api/1.1/CMenu" target="_blank">CMenu</a>**
 
 ###Пример файла _menu.php 
 (application.views.product._menu.php)
