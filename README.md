@@ -11,7 +11,7 @@
                 'itemOptions'=>array(),
                 'submenuOptions'=>array(),
                 'template'=>'',
-                'items'=>array(
+                'filesItems'=>array(
                     array(
                         'path'=>'application.views.product',
                         'file'=>'_menu'
